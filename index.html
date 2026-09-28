@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <link rel="icon" type="image/png" href="./app-icon.png">
+  <title>Screenshottr for Mac</title>
+  <style>
+    :root { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #17283f; }
+    * { box-sizing: border-box; }
+    body { min-height: 100vh; margin: 0; display: grid; place-items: center; padding: 28px; background: linear-gradient(135deg, #fafdff, #eaf2fc); }
+    body::before { content: ""; position: fixed; inset: 0; pointer-events: none; background: linear-gradient(#cedced44 1px, transparent 1px), linear-gradient(90deg, #cedced44 1px, transparent 1px); background-size: 48px 48px; }
+    main { position: relative; isolation: isolate; width: min(100%, 560px); padding: 76px 36px 68px; border: 1px solid #d8e3f0; border-radius: 30px; background: #fff; box-shadow: 0 24px 70px #537daa20; text-align: center; }
+    main::before, main::after { content: "✦"; position: absolute; color: #a7c8ed; font-size: 28px; line-height: 1; }
+    main::before { left: 28px; top: 25px; }
+    main::after { right: 30px; bottom: 23px; }
+    img { display: block; width: 96px; height: 96px; margin: 0 auto 22px; }
+    h1 { margin: 0 0 30px; font-size: clamp(34px, 8vw, 48px); letter-spacing: -.045em; line-height: 1.05; }
+    a { display: inline-block; padding: 15px 26px; border-radius: 13px; background: #1555a0; color: #fff; font-size: 17px; font-weight: 650; text-decoration: none; box-shadow: 0 8px 18px #1555a026; transition: background .15s, transform .15s; }
+    a:hover { background: #0d4385; transform: translateY(-2px); }
+    a:focus-visible { outline: 3px solid #6bb6ff; outline-offset: 4px; }
+    @media (prefers-reduced-motion: reduce) { a { transition: none; } }
+  </style>
+</head>
+<body>
+  <main>
+    <img src="./app-icon.png" alt="" width="96" height="96">
+    <h1>Screenshottr</h1>
+    <a href="./Screenshottr-1.2.0-14-macOS-universal.dmg">Download for Mac</a>
+  </main>
+</body>
+</html>
