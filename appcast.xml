@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Screenshottr</title>
+        <item>
+            <title>1.2.0</title>
+            <pubDate>Mon, 28 Sep 2026 18:56:13 -0400</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.2.0-14-macOS-universal.dmg" length="5186157" type="application/octet-stream" sparkle:edSignature="81IqegFyU8OHfhTn5HdArzbkzsRx2H40ZspyFSYk/A8wFcroLtE7wW/gwPGzdj0pG+n+cceX9hPu5Rb6RsvOCg=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: 7e6sURPQF9YH/6kCEHRsEOBoKCSK/FRwKJLDpJ5DaJsmfbl54tHIPHOTafePpJC7SRpG6bPGutDM5X5aZ065Ag==
+length: 1042
+-->
