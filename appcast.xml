@@ -7,6 +7,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Screenshottr</title>
         <item>
             <title>1.5.0</title>
+            <pubDate>Tue, 29 Sep 2026 13:28:03 -0400</pubDate>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Native macOS 27 appearance</h2>
+<ul>
+  <li>Window controls and toolbars now use the current native macOS glass appearance.</li>
+  <li>Improved stability when reopening a project with the inspector visible.</li>
+  <li>Keep the canvas centered when showing or hiding the sidebar and inspector.</li>
+</ul>
+<p>Requires macOS 14 or later. Includes Apple silicon and Intel support.</p>
+]]></description>
+            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.5.0-33-macOS-universal.dmg" length="41454290" type="application/octet-stream" sparkle:edSignature="5QEEBSu8d7YQ1nDjJtwq/kNWjS0BfwxS/e9wQ+T2eWzCm9bMfbkK0QUHH9jXD99GDkUsWLUML1YlyRKz07HDDg=="/>
+        </item>
+        <item>
+            <title>1.5.0</title>
             <pubDate>Tue, 29 Sep 2026 12:33:19 -0400</pubDate>
             <sparkle:version>32</sparkle:version>
             <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
@@ -39,24 +55,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.4.0-29-macOS-universal.dmg" length="41278047" type="application/octet-stream" sparkle:edSignature="q3ZKGMGIBLZkpVfhKkT9GdvnDvbJFBeRbJaTt1zlWrROXk1XUykCpeu89CkWuVw01rpgPpoD3KrBcS8G/y7wDw=="/>
         </item>
-        <item>
-            <title>1.3.3</title>
-            <pubDate>Tue, 29 Sep 2026 08:11:17 -0400</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Reopen Screenshottr from the Dock</h2>
-<ul>
-<li>Clicking the Dock icon after closing the main window now brings the editor back with your current project and edits.</li>
-<li>Restore minimized editors and reopen the workspace even when Settings is still open.</li>
-<li>Use Window → Show Screenshottr (⌘0) to bring the editor forward at any time.</li>
-</ul>
-]]></description>
-            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.3.3-21-macOS-universal.dmg" length="40924840" type="application/octet-stream" sparkle:edSignature="XB/glHUULYICrsYRPyTPyvlUdoeJvNzFfcv/ndiaE+QBv2EpbWfG0Em1V2iN061piQIhURSM2KQ1vao09xR9Dw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ZX3FjpxSgyT0n2O68a4U96RDYPgHwxSeUsoke4IZheBnCFsEu4wXIbaWgvjhn9FYRWuCEvvbiPdx3RARUw8mAA==
-length: 4151
+edSignature: wSSdzD8HczAOtYFP2J6AjLpVN1r/KTcwCOmEpQcHNFC3CV0CD+QZMizf7pHy2/ji/NVC5lT8MECkkOXMfd8JBQ==
+length: 4171
 -->
