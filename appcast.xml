@@ -6,6 +6,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Screenshottr</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Mon, 28 Sep 2026 22:56:41 -0400</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>What's new in Screenshottr 1.3</h2>
+<ul>
+<li>52 built-in backgrounds with grain, dither, halftone, and soft finishes.</li>
+<li>Custom canvas width and height, plus wide, square, portrait, and story presets.</li>
+<li>Automatic update checks enabled by default. Your existing update preferences are preserved.</li>
+</ul>
+]]></description>
+            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.3.0-18-macOS-universal.dmg" length="40511711" type="application/octet-stream" sparkle:edSignature="ae1DJJCHHvWoyCGxk6KBW6LLeTUQ3PRwenbHL6cWN8F3AtcdRh9uM7Lbh9ClKPIcBePT76eKvos5O/woOKqTCw=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Mon, 28 Sep 2026 18:56:13 -0400</pubDate>
             <sparkle:version>14</sparkle:version>
@@ -16,6 +31,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 7e6sURPQF9YH/6kCEHRsEOBoKCSK/FRwKJLDpJ5DaJsmfbl54tHIPHOTafePpJC7SRpG6bPGutDM5X5aZ065Ag==
-length: 1042
+edSignature: dA8Y9zLL3pWaQhxJgXwSOSSCmX/tEkAu9HndMrqVzpNT04WkYTQTXe+vXJ1DmfAxB6n0+QBC8t2fhLf1XitzAg==
+length: 2024
 -->
