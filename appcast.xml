@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Screenshottr</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Tue, 29 Sep 2026 10:38:42 -0400</pubDate>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>A calmer, more capable workspace</h2>
+<ul>
+<li>A redesigned editor with collapsible projects and inspector panels, a persistent tool palette, and cleaner window edges.</li>
+<li>Move and resize annotations directly, edit text precisely, and undo appearance and annotation changes with history saved in your project.</li>
+<li>Preview backgrounds and reusable styles before applying them, with clearer device and canvas controls.</li>
+<li>Duplicate screenshots, organize collections, apply styles to a selection, and export multiple images together.</li>
+<li>Review detected text before redacting it, preview exports, and use native keyboard commands throughout the workspace.</li>
+</ul>
+]]></description>
+            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.4.0-29-macOS-universal.dmg" length="41278047" type="application/octet-stream" sparkle:edSignature="q3ZKGMGIBLZkpVfhKkT9GdvnDvbJFBeRbJaTt1zlWrROXk1XUykCpeu89CkWuVw01rpgPpoD3KrBcS8G/y7wDw=="/>
+        </item>
+        <item>
             <title>1.3.3</title>
             <pubDate>Tue, 29 Sep 2026 08:11:17 -0400</pubDate>
             <sparkle:version>21</sparkle:version>
@@ -36,25 +53,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.3.2-20-macOS-universal.dmg" length="40921896" type="application/octet-stream" sparkle:edSignature="MyiASqDzmVgoMDsLfM3Fceq7fc29hGMY9ngU3XSaem/dRw/OGDRYVXqQsKgMK+G2JOnJ4+Xyjz5MBiIJVWWsBg=="/>
         </item>
-        <item>
-            <title>1.3.1</title>
-            <pubDate>Mon, 28 Sep 2026 23:43:07 -0400</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Apple device frames</h2>
-<ul>
-<li>Get all 65 Apple device frames directly from Apple using Get Apple Frames in the frame sidebar.</li>
-<li>Install iPhone, iPad, MacBook Pro, and Apple Watch artwork with progress, cancellation, and integrity checks.</li>
-<li>Import the five Apple DMGs from disk if you already downloaded them.</li>
-<li>Keep the existing plain frames, saved projects, styles, and personal frame library.</li>
-</ul>
-]]></description>
-            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.3.1-19-macOS-universal.dmg" length="40878094" type="application/octet-stream" sparkle:edSignature="c+9ZVca4kKWvAQkPyF0Ce+YtFRE4P5nUix41gilZD8SH3mfqe3nq8ClmIwaFVMRed2dXcVE9o2xm++4z9XngDA=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: GeLUBGaYYX5Afok5Pf/9q2NxWTmG4A+bH5hs200BaSTNaKdEVvnvszG0JjX1nVgl5OkQxF49Em2/UQ7w0rF1BA==
-length: 3669
+edSignature: x0pX/l06vms1yms2s/38R1PWyJxwTEi/kHSsp2si3OtFbi6hU7kYRvVxCNk7uF0nO4/amLeoPZmC+QhxdtQzDw==
+length: 3923
 -->
