@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Screenshottr</title>
         <item>
+            <title>1.3.1</title>
+            <pubDate>Mon, 28 Sep 2026 23:43:07 -0400</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Apple device frames</h2>
+<ul>
+<li>Get all 65 Apple device frames directly from Apple using Get Apple Frames in the frame sidebar.</li>
+<li>Install iPhone, iPad, MacBook Pro, and Apple Watch artwork with progress, cancellation, and integrity checks.</li>
+<li>Import the five Apple DMGs from disk if you already downloaded them.</li>
+<li>Keep the existing plain frames, saved projects, styles, and personal frame library.</li>
+</ul>
+]]></description>
+            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.3.1-19-macOS-universal.dmg" length="40878094" type="application/octet-stream" sparkle:edSignature="c+9ZVca4kKWvAQkPyF0Ce+YtFRE4P5nUix41gilZD8SH3mfqe3nq8ClmIwaFVMRed2dXcVE9o2xm++4z9XngDA=="/>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Mon, 28 Sep 2026 22:56:41 -0400</pubDate>
             <sparkle:version>18</sparkle:version>
@@ -31,6 +47,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: dA8Y9zLL3pWaQhxJgXwSOSSCmX/tEkAu9HndMrqVzpNT04WkYTQTXe+vXJ1DmfAxB6n0+QBC8t2fhLf1XitzAg==
-length: 2024
+edSignature: /iRN7/5bZS71myaTLoFofCwzAd8rQ73Uqt6u0y+lfT9VdX328uYsOKvJZo5Viz2Tz6tK2dqn9j58+3d4w6eXCQ==
+length: 3118
 -->
