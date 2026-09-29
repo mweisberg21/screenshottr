@@ -6,6 +6,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Screenshottr</title>
         <item>
+            <title>1.3.2</title>
+            <pubDate>Tue, 29 Sep 2026 07:46:43 -0400</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Choose your Apple device frames</h2>
+<ul>
+<li>Download only the device packs you want: iPhone 17 and Air, iPhone Duo, iPad Pro, MacBook Pro, or Apple Watch Ultra.</li>
+<li>See each pack’s download size, the selected total, and which packs are already installed.</li>
+<li>Add more packs later without downloading your existing packs again.</li>
+<li>Import just the selected Apple DMGs while preserving existing frames, projects, and styles.</li>
+</ul>
+]]></description>
+            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.3.2-20-macOS-universal.dmg" length="40921896" type="application/octet-stream" sparkle:edSignature="MyiASqDzmVgoMDsLfM3Fceq7fc29hGMY9ngU3XSaem/dRw/OGDRYVXqQsKgMK+G2JOnJ4+Xyjz5MBiIJVWWsBg=="/>
+        </item>
+        <item>
             <title>1.3.1</title>
             <pubDate>Mon, 28 Sep 2026 23:43:07 -0400</pubDate>
             <sparkle:version>19</sparkle:version>
@@ -36,17 +52,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.3.0-18-macOS-universal.dmg" length="40511711" type="application/octet-stream" sparkle:edSignature="ae1DJJCHHvWoyCGxk6KBW6LLeTUQ3PRwenbHL6cWN8F3AtcdRh9uM7Lbh9ClKPIcBePT76eKvos5O/woOKqTCw=="/>
         </item>
-        <item>
-            <title>1.2.0</title>
-            <pubDate>Mon, 28 Sep 2026 18:56:13 -0400</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.2.0-14-macOS-universal.dmg" length="5186157" type="application/octet-stream" sparkle:edSignature="81IqegFyU8OHfhTn5HdArzbkzsRx2H40ZspyFSYk/A8wFcroLtE7wW/gwPGzdj0pG+n+cceX9hPu5Rb6RsvOCg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: /iRN7/5bZS71myaTLoFofCwzAd8rQ73Uqt6u0y+lfT9VdX328uYsOKvJZo5Viz2Tz6tK2dqn9j58+3d4w6eXCQ==
-length: 3118
+edSignature: Bf8KXiyStk1BWbXfpAUS2z1ZJgJm19/AjoqdsHo5DtlL6Wt3WP+lSx07n3b7FY6lzcF6xWxZY2U0lbiwLe8TAQ==
+length: 3628
 -->
