@@ -6,6 +6,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Screenshottr</title>
         <item>
+            <title>1.7.2</title>
+            <pubDate>Wed, 30 Sep 2026 17:50:58 -0400</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Annotations across your entire canvas</h2>
+<ul><li>Add arrows, shapes, callouts and text inside or outside the device frame.</li><li>Adjust colors, fonts, outlines and shadows with sliders, steppers and quick presets.</li><li>Start with larger, readable annotations and reuse your selected styling.</li><li>Let connected AI agents create, edit, duplicate and arrange annotations through MCP.</li><li>Updated agent instructions include full-canvas coordinates and worked examples.</li></ul>
+]]></description>
+            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.7.2-44-macOS-universal.dmg" length="42128467" type="application/octet-stream" sparkle:edSignature="paP0wQCFvp2+D8BjMwehAzBm9U3W7k5s6ocZIlyu2umsbJuq2jQdB6MJxOhQq14ecvMqY1NWitlq0X3Q8cLRDQ=="/>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Wed, 30 Sep 2026 15:08:44 -0400</pubDate>
             <sparkle:version>40</sparkle:version>
@@ -35,26 +46,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.6.0-39-macOS-universal.dmg" length="41860461" type="application/octet-stream" sparkle:edSignature="XKWcdyS9ha7c7xB7Gvrq7F13yebsUkWvMJaR5WlnFf8nNPwmtQOmxBcwLGeGdrC3UAJvj2UCSA6z8B1ncgXrDA=="/>
         </item>
-        <item>
-            <title>1.6.0</title>
-            <pubDate>Wed, 30 Sep 2026 13:28:45 -0400</pubDate>
-            <sparkle:version>38</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Connect your AI agent to Screenshottr</h2>
-<ul>
-  <li>Enable agent access in Settings to let Codex, Claude Code, and other local agents work directly with Screenshottr while the app is open.</li>
-  <li>Copy one setup message to connect your agent and install the included Screenshottr skill. Advanced connection controls remain visible.</li>
-  <li>Use agents to organize projects and screenshots, discover and apply saved styles, add annotations and redactions, crop, preview, and export PNGs.</li>
-  <li>Agent edits use Screenshottr’s normal undo and save history. Applying styles preserves crops and redactions, and exports never overwrite existing files.</li>
-  <li>Agent access is off by default. Turn it off at any time or reset the connection token to revoke existing connections.</li>
-</ul>
-]]></description>
-            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.6.0-38-macOS-universal.dmg" length="41852118" type="application/octet-stream" sparkle:edSignature="qWRVOj+iAIgEHs/z6X8aIivea3u3tHs2YbMByiq1i9nyXwUjfX6PJIKQhftOtpLdKf9wcBtO2HYno7PMMFWTBg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ZkhRt6lx453c5kwtPOrkpBwMXJekeEY+/7SAGytiAigzjvGsPfo6ifyxhcpcw5zDKEY5pMYeF9OF04mPJqVIBw==
-length: 4125
+edSignature: KEtJ/OUs8MO/6dgx0ehjWa7AbFV5KEaw23egxnvGrhEBu5592XyvFins5QpwFjIgwM9h4xC2r/xqEEUwf5/zAQ==
+length: 3815
 -->
