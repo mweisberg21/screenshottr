@@ -7,6 +7,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Screenshottr</title>
         <item>
             <title>1.6.0</title>
+            <pubDate>Wed, 30 Sep 2026 14:53:49 -0400</pubDate>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Export an entire project</h2>
+<ul>
+  <li>Choose Export Project as PNGs from the Export menu, File menu, or project menu to save all of a project's images to one folder.</li>
+  <li>Each PNG includes its image's edits, redactions, style, and output dimensions. All project images are included, even when search hides them.</li>
+  <li>Existing files are kept. Follow export progress, cancel when needed, and keep images that have already finished exporting.</li>
+</ul>
+]]></description>
+            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.6.0-39-macOS-universal.dmg" length="41860461" type="application/octet-stream" sparkle:edSignature="XKWcdyS9ha7c7xB7Gvrq7F13yebsUkWvMJaR5WlnFf8nNPwmtQOmxBcwLGeGdrC3UAJvj2UCSA6z8B1ncgXrDA=="/>
+        </item>
+        <item>
+            <title>1.6.0</title>
             <pubDate>Wed, 30 Sep 2026 13:28:45 -0400</pubDate>
             <sparkle:version>38</sparkle:version>
             <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
@@ -38,26 +53,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.5.0-33-macOS-universal.dmg" length="41454290" type="application/octet-stream" sparkle:edSignature="5QEEBSu8d7YQ1nDjJtwq/kNWjS0BfwxS/e9wQ+T2eWzCm9bMfbkK0QUHH9jXD99GDkUsWLUML1YlyRKz07HDDg=="/>
         </item>
-        <item>
-            <title>1.5.0</title>
-            <pubDate>Tue, 29 Sep 2026 12:33:19 -0400</pubDate>
-            <sparkle:version>32</sparkle:version>
-            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>New screenshots, ready to edit</h2>
-<ul>
-<li>Turn on automatic Photos importing to add new screenshots to your current project as they arrive in your Mac's Photos library, including screenshots synced from your iPhone through iCloud.</li>
-<li>New screenshots inherit your composition style and a compatible device frame. Importing waits while you edit, saves your work, and avoids duplicates.</li>
-<li>Keep importing enabled to catch up on missed screenshots when you reopen Screenshottr.</li>
-<li>The Fit and zoom menu now uses native Liquid Glass on macOS 26 and later.</li>
-<li>Includes the Photos access capability required for macOS to show its permission request.</li>
-</ul>
-]]></description>
-            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.5.0-32-macOS-universal.dmg" length="41446039" type="application/octet-stream" sparkle:edSignature="dmPAOL3c7U4z+QD90b9WNJLe825WyWPJWiWuvw8oCCRYJlHBXwfV5aC2pAzPrDWqY2G3klL3+fuy8+Clam1gCQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: CjdpIGdoCclfCfooel2lfVvTypWv/hzZ+kNS3qp4flQvXIxVIUz2n+6y/cbs6HVsBsP9bf93060jGUovyzqSBw==
-length: 4286
+edSignature: loWaEBgmDVVXxi5FTcererLmUkddk5hQf6X9abkVL2tEwui0PVsL7K/MQ+tA1jSm4NH0DDSJDcumb3mfae3WCg==
+length: 4071
 -->
