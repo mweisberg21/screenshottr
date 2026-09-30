@@ -7,6 +7,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>Screenshottr</title>
         <item>
             <title>1.6.0</title>
+            <pubDate>Wed, 30 Sep 2026 15:08:44 -0400</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Keep project exports together</h2>
+<ul>
+  <li>Export Project as PNGs now creates a folder named after your project inside the destination you choose, with all images contained in that folder.</li>
+  <li>Repeated exports create numbered folders, keeping previous exports intact.</li>
+  <li>Each image keeps its edits, redactions, style, and output dimensions. Project export includes every image, even when search hides it.</li>
+</ul>
+]]></description>
+            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.6.0-40-macOS-universal.dmg" length="41835957" type="application/octet-stream" sparkle:edSignature="qysXGm0j7y/IVxs+g1hb4ZL5L3Zy8Z5JI+KYqbZgLYHiC5XyWLPiTmM65JAiJ1kFKRcwedykn6R9nFK2Fy0fDQ=="/>
+        </item>
+        <item>
+            <title>1.6.0</title>
             <pubDate>Wed, 30 Sep 2026 14:53:49 -0400</pubDate>
             <sparkle:version>39</sparkle:version>
             <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
@@ -37,25 +52,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.6.0-38-macOS-universal.dmg" length="41852118" type="application/octet-stream" sparkle:edSignature="qWRVOj+iAIgEHs/z6X8aIivea3u3tHs2YbMByiq1i9nyXwUjfX6PJIKQhftOtpLdKf9wcBtO2HYno7PMMFWTBg=="/>
         </item>
-        <item>
-            <title>1.5.0</title>
-            <pubDate>Tue, 29 Sep 2026 13:28:03 -0400</pubDate>
-            <sparkle:version>33</sparkle:version>
-            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>Native macOS 27 appearance</h2>
-<ul>
-  <li>Window controls and toolbars now use the current native macOS glass appearance.</li>
-  <li>Improved stability when reopening a project with the inspector visible.</li>
-  <li>Keep the canvas centered when showing or hiding the sidebar and inspector.</li>
-</ul>
-<p>Requires macOS 14 or later. Includes Apple silicon and Intel support.</p>
-]]></description>
-            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.5.0-33-macOS-universal.dmg" length="41454290" type="application/octet-stream" sparkle:edSignature="5QEEBSu8d7YQ1nDjJtwq/kNWjS0BfwxS/e9wQ+T2eWzCm9bMfbkK0QUHH9jXD99GDkUsWLUML1YlyRKz07HDDg=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: loWaEBgmDVVXxi5FTcererLmUkddk5hQf6X9abkVL2tEwui0PVsL7K/MQ+tA1jSm4NH0DDSJDcumb3mfae3WCg==
-length: 4071
+edSignature: ZkhRt6lx453c5kwtPOrkpBwMXJekeEY+/7SAGytiAigzjvGsPfo6ifyxhcpcw5zDKEY5pMYeF9OF04mPJqVIBw==
+length: 4125
 -->
