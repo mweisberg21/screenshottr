@@ -6,6 +6,23 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Screenshottr</title>
         <item>
+            <title>1.6.0</title>
+            <pubDate>Wed, 30 Sep 2026 13:28:45 -0400</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Connect your AI agent to Screenshottr</h2>
+<ul>
+  <li>Enable agent access in Settings to let Codex, Claude Code, and other local agents work directly with Screenshottr while the app is open.</li>
+  <li>Copy one setup message to connect your agent and install the included Screenshottr skill. Advanced connection controls remain visible.</li>
+  <li>Use agents to organize projects and screenshots, discover and apply saved styles, add annotations and redactions, crop, preview, and export PNGs.</li>
+  <li>Agent edits use Screenshottr’s normal undo and save history. Applying styles preserves crops and redactions, and exports never overwrite existing files.</li>
+  <li>Agent access is off by default. Turn it off at any time or reset the connection token to revoke existing connections.</li>
+</ul>
+]]></description>
+            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.6.0-38-macOS-universal.dmg" length="41852118" type="application/octet-stream" sparkle:edSignature="qWRVOj+iAIgEHs/z6X8aIivea3u3tHs2YbMByiq1i9nyXwUjfX6PJIKQhftOtpLdKf9wcBtO2HYno7PMMFWTBg=="/>
+        </item>
+        <item>
             <title>1.5.0</title>
             <pubDate>Tue, 29 Sep 2026 13:28:03 -0400</pubDate>
             <sparkle:version>33</sparkle:version>
@@ -38,26 +55,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.5.0-32-macOS-universal.dmg" length="41446039" type="application/octet-stream" sparkle:edSignature="dmPAOL3c7U4z+QD90b9WNJLe825WyWPJWiWuvw8oCCRYJlHBXwfV5aC2pAzPrDWqY2G3klL3+fuy8+Clam1gCQ=="/>
         </item>
-        <item>
-            <title>1.4.0</title>
-            <pubDate>Tue, 29 Sep 2026 10:38:42 -0400</pubDate>
-            <sparkle:version>29</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>A calmer, more capable workspace</h2>
-<ul>
-<li>A redesigned editor with collapsible projects and inspector panels, a persistent tool palette, and cleaner window edges.</li>
-<li>Move and resize annotations directly, edit text precisely, and undo appearance and annotation changes with history saved in your project.</li>
-<li>Preview backgrounds and reusable styles before applying them, with clearer device and canvas controls.</li>
-<li>Duplicate screenshots, organize collections, apply styles to a selection, and export multiple images together.</li>
-<li>Review detected text before redacting it, preview exports, and use native keyboard commands throughout the workspace.</li>
-</ul>
-]]></description>
-            <enclosure url="https://mweisberg21.github.io/screenshottr/Screenshottr-1.4.0-29-macOS-universal.dmg" length="41278047" type="application/octet-stream" sparkle:edSignature="q3ZKGMGIBLZkpVfhKkT9GdvnDvbJFBeRbJaTt1zlWrROXk1XUykCpeu89CkWuVw01rpgPpoD3KrBcS8G/y7wDw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: wSSdzD8HczAOtYFP2J6AjLpVN1r/KTcwCOmEpQcHNFC3CV0CD+QZMizf7pHy2/ji/NVC5lT8MECkkOXMfd8JBQ==
-length: 4171
+edSignature: CjdpIGdoCclfCfooel2lfVvTypWv/hzZ+kNS3qp4flQvXIxVIUz2n+6y/cbs6HVsBsP9bf93060jGUovyzqSBw==
+length: 4286
 -->
